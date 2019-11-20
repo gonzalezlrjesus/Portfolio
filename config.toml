@@ -1,0 +1,36 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Jesus Gonzalez's Developer Profile"
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.jpg"
+  author = "Jesus R. Gonzalez L."
+
+
+[params.social]
+  Github        = "gonzalezlrjesus"
+  Email         = "gonzalezlrjesus@gmail.com"
+  Twitter       = "gonzalezlrjesus"
+  LinkedIn      = "gonzalezlrjesus"
+  Telegram      = "gonzalezlrjesus"
+
+## Main Menu
+[[menu.main]]
+  name = "contributions"
+  identifier = "contributions"
+  weight = 200
+  url = "/contributions/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "http://localhost:1313/img/CV.pdf"

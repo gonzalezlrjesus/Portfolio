@@ -1,0 +1,7 @@
+[submodule "themes/hugo-sustain"]
+	path = themes/hugo-sustain
+	url = https://github.com/nurlansu/hugo-sustain.git
+[submodule "git"]
+	path = git
+	url = git@github.com:gonzalezlrjesus/gonzalezlrjesus.github.io.git
+	branch = master

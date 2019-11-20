@@ -1,0 +1,11 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    url: https://github.com/gonzalezlrjesus/API-Betting-Sports
+    name: Sports betting API
+    description: this is an API to real time auction of horse racings, it was made with Golang Language, Websocket, GORM and PostgreSQL database.
+
+  - icon: fa fa-android 
+    url: https://play.google.com/store/apps/details?id=com.gonzalezlrjesus.aprendemates&hl=en
+    name: Aprende Mates
+    description: this is an education app to learn basic rules of mathematics, It was made with Ionic Framework 3.92 and Local Storage.

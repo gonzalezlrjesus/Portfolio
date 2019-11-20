@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jesus Gonzalez's Developer Profile"
+theme = "hugo-sustain"
