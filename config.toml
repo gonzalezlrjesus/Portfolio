@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://gonzalezlrjesus.github.io/"
 languageCode = "en-us"
 title = "Jesus Gonzalez's Developer Profile"
 theme = "hugo-sustain"
@@ -33,4 +33,4 @@ theme = "hugo-sustain"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "http://localhost:1313/img/CV.pdf"
+  url = "https://gonzalezlrjesus.github.io/img/CV.pdf"
