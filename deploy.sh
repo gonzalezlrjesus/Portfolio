@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -t hugo-sustain --baseURL="https://hugo-demo.github.io/" # if using a theme, replace by `hugo -t <yourtheme>`
+hugo -t hugo-sustain --baseURL="https://gonzalezlrjesus.github.io/" # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd public
