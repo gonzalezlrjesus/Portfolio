@@ -5,3 +5,7 @@
 	path = git
 	url = git@github.com:gonzalezlrjesus/gonzalezlrjesus.github.io.git
 	branch = master
+[submodule "gonzalezlrjesus.github.io"]
+	path = gonzalezlrjesus.github.io
+	url = git@github.com:gonzalezlrjesus/gonzalezlrjesus.github.io.git
+	branch = master
